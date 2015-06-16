@@ -1,0 +1,15 @@
+{
+  "name": "meh-cli",
+  "version": "0.1.0",
+  "description": "Meh-cli is a command line utility to quickly build Meh-stack (Mongo-Ember-Hapi) applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Lewis",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "meh": "index.js"
+  }
+}
