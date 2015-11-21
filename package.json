@@ -11,5 +11,8 @@
   "preferGlobal": true,
   "bin": {
     "meh": "index.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
   }
 }
